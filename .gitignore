@@ -1,0 +1,16 @@
+__pycache__/
+.ipynb_checkpoints/
+
+.vscode/
+
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+*env
+
+__pycache__/
+
+
+*data/

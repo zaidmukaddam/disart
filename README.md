@@ -90,6 +90,3 @@ VITE_APP_API_URL=https://[your-app-endpoint].modal.run npm run dev
 Created by Zaid Mukaddam ([@zaidmukaddam](https://twitter.com/zaidmukaddam)). All code is licensed
 under [MIT](LICENSE), and data is generously provided by the
 [Harvard Art Museums](https://www.harvardartmuseums.org/) public access collection.
-
-I learned a lot from Jono Brandel's [_Curaturae_](https://curaturae.com/) when
-designing this.

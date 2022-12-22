@@ -8,7 +8,7 @@
   import { loadSuggestions, type Artwork, type SearchResult } from "./api";
   import { layoutArtwork } from "./geometry";
   import { TouchZoom } from "./touchZoom";
-  const PIXELS_PER_CM = 5;
+  const PIXELS_PER_CM = 8;
   const SIDEBAR_WIDTH = 420;
   const STARTER_INPUTS = [
     "bright landscape",
